@@ -4,4 +4,4 @@ var injectTapEventPlugin = require('react-tap-event-plugin');
 injectTapEventPlugin();
 require('./css/flexboxgrid.css');
 require('./css/font-awesome.css');
-// require('./css/app.css');
+require('./css/app.css');

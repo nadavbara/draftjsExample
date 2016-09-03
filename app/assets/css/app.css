@@ -1,0 +1,19 @@
+div[class*="EditorToolbar"]{
+	display: flex;
+	justify-content: flex-end;
+}
+
+.public-DraftEditor-content{
+	min-height: 500px;
+}
+
+.public-DraftStyleDefault-ltr{
+	direction: rtl !important;
+	text-align: right !important;
+}
+
+.rightAlign{
+	margin-top: 12px;
+	direction: rtl;
+
+}
