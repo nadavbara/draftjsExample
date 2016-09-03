@@ -41,8 +41,5 @@ module.exports = {
 	plugins: [
 		HTMLWebpackPluginConfig,
 		new ExtractTextPlugin("styles.css")
-	],
-	externals: {
-            "jquery": "jQuery"
-    }
+	]
 };
